@@ -1,0 +1,26 @@
+body{
+    background-color: bisque !important;
+}
+
+.flex-direction-column{
+    flex-direction: column !important;
+}
+.f-w-b{
+    font-weight: bold;
+}
+.red-admin{
+    color: red !important;
+    border: 1px solid red !important;
+}
+.or-admin{
+    color: orange !important;
+    border: 1px solid orange !important;
+}
+.or-blue{
+    color: blue !important;
+    border: 1px solid blue !important;
+}
+.or-green{
+    color: green !important;
+    border: 1px solid green !important;
+}
